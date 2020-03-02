@@ -1,4 +1,4 @@
-County,Sales
-warwichshire,2398279
-oxfordshire,23
-nottinghamshire,37834
+County,Sales,av_sales_by_month
+warwichshire,2398279,199856.58333333334
+oxfordshire,23,1.9166666666666667
+nottinghamshire,37834,3152.8333333333335
