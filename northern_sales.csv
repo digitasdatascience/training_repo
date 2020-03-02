@@ -1,4 +1,4 @@
-County,Sales
-Yorkshire,1000
-Cheshire,2000
-Staffordshire,3000
+County,Sales,av_sales_by_month
+Yorkshire,1000,83.33333333333333
+Cheshire,2000,166.66666666666666
+Staffordshire,3000,250
