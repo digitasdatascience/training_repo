@@ -1,4 +1,4 @@
-County,Sales
-Somerset,1000
-Wiltshire,2000
-Devon,3000
+County,Sales,avg_sales_by_month
+Somerset,1000,83.33333333333333
+Wiltshire,2000,166.66666666666666
+Devon,3000,250
