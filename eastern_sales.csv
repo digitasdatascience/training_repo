@@ -1,4 +1,4 @@
-County,Sales
-Norfolk,1000
-Lincoln,2000
-Northumbria,3000
+County,Sales,av_sales_by_month
+Norfolk,1000,83.33333333333333
+Lincoln,2000,166.66666666666666
+Northumbria,3000,250
